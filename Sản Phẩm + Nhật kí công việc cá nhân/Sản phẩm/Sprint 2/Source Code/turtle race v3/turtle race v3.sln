@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "turtle race v3", "turtle race v3\turtle race v3.pyproj", "{68C6CFC5-FAE2-4BED-8196-2DB8872ED491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C6CFC5-FAE2-4BED-8196-2DB8872ED491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C6CFC5-FAE2-4BED-8196-2DB8872ED491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59D7186-A9F2-45D0-A870-058A6EBC0A5E}
+	EndGlobalSection
+EndGlobal
